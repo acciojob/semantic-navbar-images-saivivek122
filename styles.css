@@ -1,18 +1,2 @@
 
 /* Your CSS Code here. */
-ul,a{
-	display:flex;
-	justify-content:space-between;
-	list-style-type:none;
-	text-decoration:none;
-	font-size:20px;	
-}
-
-
-
-@media screen and (max-width:500px){
-	ul{
-		flex-direction:column;
-	}
-	
-}
